@@ -1,0 +1,115 @@
+Cost of Capital
+Chapter 10
+Introduction to Financial Management (Pope)
+
+Cost of Capital (CoC)
+The return the firm’s investors could expect to earn if they invested in securities with comparable degrees of risk
+- What we use as the “discount rate” in a capital budgeting decision or valuation model
+- Who are the “investors”? Equity holders? Debt holders?
+Capital structure: the mix of long-term debt and equity financing
+
+Which CoC?
+We have discussed various ideas of what the “cost of capital” might be/mean…
+- Opportunity cost of capital
+- Company cost of capital
+- Project cost of capital
+- What do these all mean / how do they differ?
+
+Deriving CoC
+If we wish to derive the company cost of capital…
+𝐷+ 𝐸
++ 𝐸
+
+Deriving CoC
+From the previous slide, we found…
++ 𝐸
+𝑉× 𝑟𝑑𝑒𝑏𝑡 (1 −𝑇) + 𝐸
+And then considering the tax shield on debt…
+
+Example 1:
+Kellogg’s wants to raise an additional $3,000,000 as part of the capital that would be needed to expand their operations into the Morning Foods sector. Their CFO is in the process of estimating the corporation’s WACC and is informed by her Treasurer that Kellogg’s has $160 million of debt and $250 million of equity (both market valuations). She is also told the expected return on debt and equity is 7.5% and 13% respectively. If the current tax rate is 20%, what is Kellogg’s WACC?
+
+160 + 250 × 0.13
+𝑉× 𝑟𝑑𝑒𝑏𝑡 (1 −𝑇) + 𝐸
+𝑊𝐴𝐶𝐶= 0.39 × 0.075
+
+Calculating WACC
+Three Steps to Calculating Cost of Capital.
+1. Calculate the value of each security as a proportion of the firm’s market value
+2. Determine the required rate of return on each security
+3. Calculate a weighted average of the after-tax return on the debt and the return on the equity
+
+Cost of Debt
+For large, stable companies, the cost of debt, or the return on debt, is given by the YTM on bonds
+- This could be the YTM on current outstanding bonds or a set of comparably-rated bonds
+- Book value of debt can sometimes be used to determine the weight of debt without much error
+- Remember that we are concerned with the after-tax cost of debt (why?)
+
+Example 2:
+Again, Kellogg’s wants to raise an additional $3,000,000 as part of the capital that would be needed to expand their operations into the Morning Foods sector. Five years ago, Kellogg’s issued 20-year bonds with a 9% coupon, paid semi-annually, which are currently trading for $1,133. If there is a marginal tax rate of 20%, what is the after-tax cost of debt for Kellogg’s?
+
+You can verify this estimate by also looking at the Discounted Dividend Model (DDM)
+Cost of Equity
+For large, stable companies, the cost of equity comes from the CAPM
++ 𝑔
+
+Example 3:
+Again, Kellogg’s wants to raise an additional $3,000,000 as part of the capital that would be needed to expand their operations into the Morning Foods sector. If the expected return on the S&P 500 is 15%, the yield on treasuries 3% and Kellogg’s beta is 0.83, what is the cost of equity for the firm?
+
+WACC
+in the Wild
+A listing of WACC for various firms in the S&P 500 from
+September 2020.
+Ticker
+Company
+Beta
+Expected
+Return on equity (%)
+Interest
+Rate on debt (%)
+Proportion of Equity
+(E/V)
+Proportion of Debt
+(D/V)
+WACC
+(%)
+X
+U.S. Steel
+A M Z N
+Amazon
+I B M
+B A
+Boeing
+F
+Ford
+D I S
+Disney
+S B U X
+Starbucks
+M C D
+McDonald’s
+C P B
+Campbell
+Soup
+K O
+Coca-Cola
+W M T
+Walmart
+Note:
+Expected return on equity = 1% + Beta × 7%.
+Interest rate on debt is estimated as yield to maturity in on comparably rated corporate bonds
+D is the book value of the firm’s debt, and E is the market value of equity.
+
+Caveats Using WACC
+1. WACC is used for evaluating a project of average risk
+Evaluating a carbon copy of the business
+Used on as a benchmark to be adjusted for risk
+2. Cannot “manipulate” the equation
+Temptation to change capital structure to ensure investment
+Remember, increasing the debt ratio makes both debt and equity riskier (and hence require a higher return)
+
+Corporate Valuation
+The value of a business or project is usually computed as the discounted value of F C F out to a valuation horizon (H)
+- Free cash flow = interest payments to debt investors + shareholders’ operating cash flow −capital expenditures
+- The valuation horizon is sometimes called the terminal value and is calculated using DDM
+𝐹𝐶𝐹𝑖 (1 + 𝑊𝐴𝐶𝐶)𝑖+

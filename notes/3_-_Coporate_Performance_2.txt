@@ -1,0 +1,194 @@
+Corporate
+Performance
+Chapter 3
+Introduction to Financial Management (Pope)
+
+Corporate Performance
+Traditionally, measuring corporate performance (health) is done through financial ratios
+- relationships between different accounts from financial statements—usually the income statement and the balance sheet— that serve as performance indicators
+- Time, industry and objective
+- Make sure you understand the “story” the ratios are telling
+
+Shareholder Value
+How much value does the firm generate?
+Market-to-book ratio
+P/E ratio
+Investment
+How profitable is the firm?
+Total Cap
+ROC, ROA, ROE
+Financing
+Can the firm finance future growth?
+Efficient use of assets?
+Turnover ratios for assets, inventory and receivables
+Profits from sales?
+Operating profit margin
+Prudent financial leverage?
+Debt ratios
+Interest coverage ratios
+Sufficient liquidity?
+Current, quick and cash ratios
+
+Shareholder Value Ratios
+Ratio
+Formula
+Market Capitalization (Market Cap)
+#shares × price per share
+Market-to-Book Ratio market cap book value of equity
+Price to Earnings Ratio (P/E Ratio)* price per share earngins per share
+*There is a large amount of nuance in how this measure is interpreted.
+
+Table 4.3:
+Shareholder
+Values
+A ranking of select companies as of September
+Stock
+Market Cap (billions)
+Market-to-Book
+Price to Earnings (trailing)
+Microsoft
+3,040
+11.34
+Apple
+3,380
+50.74
+Procter & Gamble
+28.99
+Coca-Cola
+12.17
+29.68
+Intel
+83.75
+Verizon
+16.14
+Adobe
+17.06
+51.40
+Walt Disney
+34.15
+Home Depot
+81.97
+24.51
+AT&T
+11.74
+
+Investment Ratios
+Ratio
+Formula
+Total Capitalization (total cap)
+Long-term debt + shareholders’ equity
+Return on Capital (ROC/ROIC) net income total cap
+Return on Assets (ROA) net income total assets
+Return on Equity (ROE) net income equity
+
+COST vs
+WMT
+COST Market Cap*: $394B
+COST Revenues*: $253B
+WMT Market Cap*: 620B
+WMT Revenues: $665B
+*as of September 2024
+Costco
+Walmart
+Performance measures
+Market Cap price times number of shares outstanding (millions)
+$394,577
+$620,875
+Market-to-book market value of equity/book value of equity
+17.89
+Price to earnings price/earnings per share
+54.64
+32.44
+Profitability
+Measures
+Total Cap long-term debt plus equity
+$31,068
+$152,076
+Return on assets
+(ROA)
+after-tax operating income/total assets
+10.65%
+6.10%
+Return on capital
+(ROC)
+after-tax operating income/(long- term debt + equity)
+22.95%
+11.95%
+Return on equity
+(ROE)
+net income/equity
+31.64%
+18.97%
+
+Efficiency Ratios
+Ratio
+Formula
+Receivables turnover ratio sales receivables
+Days Sales Outstanding (Average collection period) receivables sales/365 = receivables turnover
+Inventory turnover ratio cost of goods sold inventory
+Days Held in Inventory (Average days in inventory) inventory cost of goods sold/365 = inventory turnover
+
+Profitability Ratios (Dupont)
+Ratio
+Formula
+Gross Profit Margin gross profit sales
+Operating profit margin operating profit sales
+Net Profit Margin net income sales
+ROA = net income sales
+× sales total assets
+= net income total assets
+
+Costco
+Walmart
+Efficiency
+Measures
+Gross profit margin gross profit/sales
+12.4%
+24.3%
+Net Profit margin net income/sales
+Asset turnover sales/total assets at start of year
+
+Leverage Ratios
+Ratio
+Formula
+Debt-to-asset ratio total liabilities total assets
+Debt-equity ratio long −term debt equity
+Times interest earned
+EBIT
+interest payments
+Cash coverage ratio
+EBIT + depreciation interest payments
+
+Dupont Analysis
+
+ROE = net income sales
+× sales total assets
+× total assets equity
+= net income equity
+
+Costco
+Walmart
+Leverage Measures
+Debt-to-asset ratio
+Total liabilities/total assets
+0.137
+0.241
+Debt-equity ratio long-term debt/equity
+60.49
+Times interest earned
+EBIT/interest payments
+53.59
+14.25
+Net profit margin net income/sales
+Asset turnover sales/total assets at start of year
+Return on assets
+(ROA)
+net income/total assets
+10.65%
+6.10%
+
+Liquidity Ratios
+Ratio
+Formula
+Current ratio current assets current liabilities
+Quick ratio cash + marketable securities + receivables current liabilities

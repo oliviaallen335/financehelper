@@ -1,0 +1,107 @@
+Stock
+Valuation
+Chapter 6
+Introduction to Financial Management (Pope)
+
+Characteristics of Stock
+Major financing vehicle for corporations
+- Provides holders with an opportunity to share in the future cash flows of the issuer.
+- Holders have “ownership” in the company (residual claim on profit)
+- Unlike bonds, no maturity date and variable periodic income
+
+Stock Terminology
+Common stock
+- First sold (initial public offering or IPO) in the primary markets
+- Most investors trade stock in the secondary market
+- Stocks may or may not issue a dividend (managerial decision)
+- Frequently carry a voting right most notably regarding Board of Directors
+
+Reading
+Stock
+Market
+Data
+Bid Price: the prices in which investors are willing to buy shares
+Ask Price: the price at which current shareholders are willing to sell their shares
+
+Stock Valuation
+There are three methods discussed in the text for finding the value of common equity:
+1. Valuation by comparable (ratios and multiples)
+2. Free Cash Flow models (FCF)
+3. Discounted dividend models (DDM)
+
+A Simple DDM
+Assume you plan to buy a stock, hold it for one year, and then sell it at the end of that year
+PV = present (intrinsic or fair) value of the stock r = the discount rate
+Div1 = expected dividend at end of year
+P1 = predicted stock price at end of year
+
+Example 1:
+What is the intrinsic value of a stock if its expected dividend $4 and you anticipated to sell the stock for $62 in one year? Assume that investments of equal risk earn a return of 10%.
+
+1+0.1 =
+1.1 = 60
+
+A Simple DDM continued
+If we rearrange the previous formula for r, we get an equation for expected return, 𝑟=
+= ต
+𝑃0 + ถ
+Dividend yield
+Capital gain yield
+
+Discounted Dividend Models
+Stock price equals the present value of all expected future dividend payments
+What does this say about value and the holding period? What if we hold the stock for a very long time?
+𝐷𝑖𝑣1 (1+𝑟)1 +
+𝐷𝑖𝑣2 (1+𝑟)2 + ⋯
+
+Constant Growth (Gordon)
+If we assume 1) we will hold the stock forever and 2) the firm’s dividend grows at a constant rate (g) then, 𝑃0 =
+𝐷𝑖𝑣1 (1+𝑟)1 +
+𝐷𝑖𝑣1(1+𝑔) (1+𝑟)2
++ ⋯+
+𝐷𝑖𝑣1(1+𝑔)𝑡−1 (1+𝑟)𝑡
+
+Example 2:
+Let’s say that the Peak Growth Company just paid its shareholders an annual dividend of $2.00 and has announced that the dividends would grow at an annual rate of 8% forever. If investors expect to earn an annual rate of return of 12% on this investment how much would they offer to buy the stock for?
+
+𝐷𝑖𝑣0(1+𝑔)
+2 (1+0.08)
+0.12−0.08 = 54
+
+Non-constant Growth
+When dividends have uneven growth, the future dividends and price must be forecasted to determine today’s value
+- Issues again arise when trying to forecast dividend and future prices
+- Use a compassion value like P/E ration for a comparable firm or industry
+𝐷𝑖𝑣1 (1+𝑟)1 +
+𝐷𝑖𝑣2 (1+𝑟)2 + ⋯
+
+Stock Terminology
+Preferred stock
+- No ownership or voting right
+- Fixed dividend payment (either amount or percentage)
+- No maturity (like common stock)
+
+Preferred Stock
+Preferred stock becomes a perpetuity, We can also use this if we consider the firm a “no-growth” firm, where 1) the firm re-invests no profit, and 2) the firm pays out all profit as dividend (pay out EPS)
+
+Deriving g
+A sustainable growth rate is achieved by a firm re-investing its earnings while keeping long-term debt ratios constant
+- Earnings can either issued as dividends (payout) or kept as retained earnings (plowed back)
+- If earnings are retained, they would theoretically return ROE
+
+Example 3:
+Aqua America has an ROE of 12.5% and is expected to pay a dividend of $0.86. It intends to plowback 38% of its earnings and the opportunity cost of capital is 7.0%. What is the stock price?
+
+0.07−0.0475 = 38.23
+
+Deriving g (continued)
+A sustainable growth rate assumes that ROE and the plowback ratio are constant. If not,
+- Value is only added when ROE is greater than r
+- PV of Growth Opportunity (PVGO) = Market Price – Market Value of Assets in Already in Place
+
+Example 4:
+Recall from before, Aqua America has an ROE of 12.5% and is expected to pay a dividend of $0.86. It intends to plowback 38% of its earnings and the opportunity cost of capital is 7.0%. Its price should be $38.23. If Aqua America decides to payout all future earnings as dividends, what will happen to its stock price?
+
+𝑃0 = 𝐸𝑃𝑆
+= 1.37
+0.07 = 19.57

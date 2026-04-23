@@ -1,0 +1,126 @@
+Capital
+Budgeting
+Chapter 8
+Introduction to Financial Management (Pope)
+
+Internal Investment
+Recall from Chapter 1, financial decisions are either investment or financing decisions
+- Investment decisions in corporate finance are often called capital budgeting decisions
+- Capital budgeting = long-term decisions for a firm
+- How do you make the most appropriate capital budgeting decision?
+
+Net Present Value
+- r is the opportunity cost of capital (i.e. cost of financing)
+- Ct is the period-specific cash flow in time period t
+- What is this?
+𝐶𝑡 (1 + 𝑟)𝑡
+𝐶0 (1+𝑟)0 +
+𝐶1 (1+𝑟)1 +
+𝐶2 (1+𝑟)2 + ⋯
+𝐶𝑡 (1+𝑟)𝑡
+
+Net Present Value
+- If NPV > 0, accept the project; if NPV < 0, reject the project
+- Why?
+𝐶𝑖 (1 + 𝑟)𝑡
+
+Example 1:
+Your firm is considering an investment into an office building. There are tenants that will generate $25,000 per year in cash flows for 3 years. At the end of 3 years, you think your firm can sell the building for $450,000. If your firm’s opportunity cost of capital is 7% and plan to invest $375,000 in the building, is this a worthwhile project?
+
+𝑁𝑃𝑉= −375,000 +
+25,000
+1+0.07 1 +
+1+0.07 2 +
+475,000
+(1+0.07)3
+𝑁𝑃𝑉= 𝐶0 +
+
+Internal Rate of Return
+The rate of return implied by a project’s cost and future cash flows
+- IRR must be calculated
+- IRR can also be called the discounted cash-flow (DCF) rate of return
+- IRR rule: If IRR > opportunity cost of capital, accept the project; if
+IRR < opportunity cost of capital, reject the project
+𝐶1 (1+𝐼𝑅𝑅)1 +
+𝐶2 (1+𝐼𝑅𝑅)2 + ⋯
+𝐶𝑡 (1+𝐼𝑅𝑅)𝑡
+
+IRR and NPV
+- IRR is the discount rate that sets NPV equal to zero
+- If IRR > opportunity cost of capital, generally NPV is positive; if IRR
+< opportunity cost of capital, generally NPV is negative
+
+NPV Profile
+An NPV profile shows the NPV of an investment with different discount rates.
+Here, as the discount rate is increased, the NPV falls.
+
+Example 2:
+Recall the office building investment from before. There are tenants that will generate $25,000 per year in cash flows for 3 years. At the end of 3 years, you think your firm can sell the building for $450,000. If your firm’s opportunity cost of capital is 7% and plan to invest $375,000 in the building, what is the projects internal rate of return (IRR)?
+
+Special Cases
+Case 1: Mutually exclusive projects
+- With NPV, choosing project with highest NPV is often the best choice (but not always)
+- With IRR, choosing the highest IRR can lead to poor decision making
+- Pay attention to either the timing of cash flows (projects have different lives) or large differences in outlays
+
+Example 3: Example 3: Determine the Cross-over Rate
+Recall the office building investment from before ($25,000 per year in cash flows for 3 years, sell the building for $450,000 at the end of 3 years, opportunity cost of capital is 7% and plan to invest $375,000). Your company’s initial proposal (your predecessor) was to invests only
+$350,000, receives no rent payment and sells the property in 1 year for $400,000. What is the initial project’s internal rate of return (IRR) and which should your firm choose?
+
+Example 3: Determine the Cross-over Rate
+Recall the office building investment from before ($25,000 per year in cash flows for 3 years, sell the building for $450,000 at the end of 3 years, opportunity cost of capital is 7% and plan to invest $375,000). Your company’s initial proposal (your predecessor) was to invests only
+$350,000, receives no rent payment and sells the property in 1 year for $400,000. What is the initial project’s internal rate of return (IRR) and which should your firm choose?
+Project
+I R R
+N P V @ 7%
+Revised proposal
+12.56% $57,942
+Initial proposal
+14.29%
+$23,832
+Revised - Initial
+11.72%
+
+Example 4: Equivalent Annual Annuity/Cost
+Samuel’s Doughnut Shop is considering the purchase of one of two machines. Machine A is a dough mixing machine which cost $45,000 and brings an annual cost savings of $15,000 for 5 years. Machine B is an icing machine which cost $20,000 and brings an annual cost savings of $12,000 for 3 years. If your cost of capital is 8%, which of the two projects should you accept?
+
+𝑁𝑃𝑉𝐴= $14,890.65
+𝑁𝑃𝑉𝐵= $10,925.16
+𝑟1 + 𝑟𝑡
+Even though Machine A has the higher NPV, it includes additional cash flows that machine B does not and hence we need a new way to value the projects. Take each NPV and turn it into an equivalent annuity payment:
+
+Special Cases
+Case 2: Lending or Borrowing
+- Rule for IRR: NPV must be falling
+- Not the case when lending and borrowing (positive initial CF, negative future CFs)
+Case 3: Multiple IRRs
+- Occurs with non-normal CFs (change in sign of CF during stream)
+
+Modified IRR
+Modified IRR takes the cashflows of a project and “reinvests” them at the firm’s cost of capital
+- Avoids unrealistic return assumptions of traditional IRR
+- Assumes firm will earn its cost of capital
+
+Example 5
+Recall the two office building investment from before 1) $25,000 per year in cash flows for 3 years, sell the building for $450,000 at the end of 3 years; 2) invest only $350,000 and sells the property in 1 year for $400,000. What are the modified internal rate of return (MIRR) of each project if the firm’s cost of capital is 7%??
+
+Recall the two office building investment from before 1) $25,000 per year in cash flows for 3 years, sell the building for $450,000 at the end of 3 years; 2) invest only $350,000 and sells the property in 1 year for $400,000. What are the modified internal rate of return (MIRR) of each project if the firm’s cost of capital is 7%?
+
+Profitability Index
+NPV per dollar invested in a project
+- Sometimes called the Benefit-cost ratio
+- With a limited amount of capital and multiple projects, PI can be used as a ranking/decision criteria
+
+Payback Period
+Time until cash flows recover the initial investment of a project
+- Accept a project if its payback period is less than pre-determined, specified cutoff period
+- Ideal for small, short-term decision making
+- Does not consider any projects after the payback period nor does it use TVM principles
+
+Example 6:
+Recall the two office building investment from before 1) $25,000 per year in cash flows for 3 years, sell the building for $450,000 at the end of 3 years; 2) invest only $350,000 and sells the property in 1 year for $400,000. What are the payback periods for both projects and which do you accept if your required payback cutoff is 2 years?
+
+Discounted Payback Period
+Time until PRESENT VALUE of cash flows recover the initial investment of a project
+- Each cash flow from the project is discounted to present value
+- Incorporates TVM principals but still does not consider any projects after the payback period

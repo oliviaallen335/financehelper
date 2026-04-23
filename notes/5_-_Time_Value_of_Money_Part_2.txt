@@ -1,0 +1,151 @@
+Time Value of Money II
+Chapter 4
+Introduction to Financial Management (Pope)
+
+One Equation and Four
+Variables
+𝐹𝑉= 𝑃𝑉(1 + 𝑟)𝑡
+𝐹𝑉 (1 + 𝑟)𝑡
+𝑟=
+𝑡= ln 𝐹𝑉
+𝑃𝑉 ln(1 + 𝑟)
+
+Multiple (Mixed) Cash Flows
+With unequal periodic cash flows, you must treat each individual cash flow on its own
+- Calculate the future or present value over the relevant number of periods for each respective cash flow
+- Sum up the individual present or future values to get the total of the multiple payment stream
+
+Example 5:
+Your auto dealer gives you the choice to pay $15,500 cash now for a vehicle or make three payments: $8,000 immediately and $4,000 at the end of the next two years. If the interest rate on your savings account (your “cost of money”) is 8%, what should you do?
+𝑃𝑉= σ𝑡=1
+𝐶𝑡 (1+𝑟)𝑇
+
+Example 5:
+Your auto dealer gives you the choice to pay $15,500 cash now for a vehicle or make three payments: $8,000 immediately and $4,000 at the end of the next two years. If the interest rate on your savings account (your “cost of money”) is 8%, what should you do?
+
+𝑃𝑉= σ𝑡=1
+
+1+𝑟0 +
+1+𝑟1+
+1+𝑟2+…+
+
+1+𝑟0 +
+1+𝑟1 +
+1+𝑟2 +…+
+
+= 𝐶
+
+Annuity Streams (Annuities)
+Annuities are a level stream of cash flows at regular intervals with a finite maturity.
+- Constant periodic cash flow (in or out)
+- Can begin at the start of each period (annuity due) as is true of rent and insurance payments or at the end of each period, (ordinary annuity) as in the case of mortgage and loan payments.
+- Foundation of nearly all consumer and business lending
+
+PV of an Annuity
+𝑟1 + 𝑟𝑡
+- PMT = periodic annuity payment (cash payment)
+- r = periodic interest rate
+- t = number of periods in the annuity payment
+- Present value annuity factor (PVAF) = PV of $1 a year for t years
+
+Example 1:
+You are purchasing a car. You are scheduled to make 3 annual installments of $8,000 per year (at the end of the year). Given a rate of interest of 10%, what is the price you are paying for the car (that is, what is the P V)?
+𝑃𝑉= 𝐶1
+𝑟1 + 𝑟𝑇
+
+FV of an Annuity
+- C = periodic annuity payment (cash payment)
+- r = periodic interest rate
+- t = number of periods in the annuity payment
+- PVAF =
+
+Example 2:
+You plan to save $3,000 every year for the next 4 years. Given an 8% annual rate of interest, what will be the future balance of your account? $3,000 every year for 4 years. Given an 8% rate of interest, what will be the F V of your account?
+𝑃𝑉= 𝐶1
+𝑟1 + 𝑟𝑇
+
+Example 2:
+You plan to save $3,000 every year for the next 4 years. Given an 8% annual rate of interest, what will be the future balance of your account? save $3,000 every year for 4
+𝑟1 + 𝑟𝑡
+× (1 + 𝑟)𝑡
+3,000 ×
+0.08 −
+0.08 1 + 0.08 4
+
+Example 3:
+You plan to save for 40 years and then retire. Given a 10% rate of interest, if you desire to have $1,000,000 at retirement, how much must you save each year?
+
+𝑟1 + 𝑟𝑡
+× (1 + 𝑟)𝑡
+1,000,000 =
+0.1 −
+0.1 1 + 0.1 40
+× (1 + 0.1)40
+1,000,000
+0.1 −
+= 1,129.71
+
+Annuity Due
+Annuity due differs from an ordinary annuity in that the annuity cash flow (the level) starts immediately (as opposed to the end of the period).
+
+Example 4:
+Let’s say that you are saving up for retirement and decide to deposit $3,000 each year for the next 20 years into an account which pays a rate of interest of 8% per year. By how much will your accumulated nest egg vary if you make each of the 20 deposits at the beginning of the year, starting right away, rather than at the end of each of the next twenty years?
+
+𝑟1 + 𝑟𝑡
+× (1 + 𝑟)𝑡
+𝐹𝑉= 3,000 ×
+0.08 −
+148,268.76 −137,285.89 = 11,000.87 (note this is 8% of the ordinary FV)
+
+Perpetuities
+The perpetuity represent an annuity cash flow that continues forever
+- This formula can be re-expressed to show the perpetuity payment that results from a present value and interest rate (simply the interest on the balance)
+
+Example 5:
+You have been quite successful in your early career and wish to give back to your alma mater. You seek to create a scholarship that provided a student with $10,000 of tuition assistance per year. You want the scholarship to be offered indefinitely at your school. If the rate of return is currently 5%, what is the contribution you must make today to ensure your endowed scholarship in perpetuity?
+𝑃𝑉= 𝐶1
+𝑟1 + 𝑟𝑇
+
+Commercial Lending
+Amortization: repaying a loan or debt via an annuity cash flow
+- A constant periodic payment pays off the interest and part of the principal balance each period
+- Last payment services any remaining interest and principal balance
+- For lender, no uncertainty in cash flow from loan; for consumer, a regular scheduled payment (best terms for the consumer!)
+- The backbone of nearly all consumer and commercial loan products (mortgages, auto loans, credit cards, etc.)
+
+Example 6:
+You have decided to purchase your first home. The selling price is $300,000 and you have $50,000 of savings to use for the transaction. Your mortgage broker informs you the bank is willing to issue you a 30-year mortgage with monthly payments and compounding at a fixed annual interest rate of 5%. What will be the monthly payment associated with this loan?
+rather than at the end of each of the next twenty years?
+
+Annual and Effective Rates
+Most common rate quoted by financial institutions is the annual percentage rate (APR)
+- Annual interest as if interest charge once per year
+- However, lenders may charge interest on a non-annual basis
+𝑟=
+𝑚 or 𝐴𝑃𝑅= 𝑟 × 𝑚
+- APR = Annual percentage rate
+- R = periodic rate
+- M = number of compounds per year (times interest is charged)
+
+Annual and Effective Rates
+The effective annual rate (EAR) is the true rate of return to the lender and true cost to the borrower.
+- Takes compounding into account
+- Sometime called the annual percentage yield (APY)
+𝐸𝐴𝑅= (1 + 𝑟)𝑚−1 =
+1 + 𝐴𝑃𝑅
+
+Example 7:
+The First Common Bank has advertised one of its loan offerings as follows: “We will lend you $100,000 for up to 3 years at an APR of 8.5% (interest compounded monthly).” If you borrow $100,000 for 1 year, how much interest will you have paid and what is your EAR?
+
+1 + 𝐴𝑃𝑅
+1 + 0.085
+Total interest paid after one year: $100,000 x 0.0884 = $8,840
+
+Example 8:
+You have just won the state lottery advertising a prize of $50,000,000. The lottery officials have given you a choice of either taking a $13,000,000 lump-sum today or a 50-year annuity of $1,000,000. Both payments are assumed to be after tax. If you can invest your money at a 5% APR, which payment structure will you choose?
+
+Example 9:
+Jim needs to borrow $50,000 for a business expansion project. His bank agrees to lend him the money over a 5-year term at an APR of 9% and will accept either annual, quarterly, or monthly payments with no change in the quoted APR. Calculate the periodic payment under each alternative and compare the total amount paid each year under each option.
+
+Example 10:
+You just turned 30 and decide that you would like to save up enough money to be able to withdraw $10,000 per month for 20 years after you retire at age 65. How much money will you have to deposit each month into an account earning 8% per year (interest compounded monthly), starting one month from today, to accomplish this goal?

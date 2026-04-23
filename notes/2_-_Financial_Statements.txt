@@ -1,0 +1,81 @@
+Financial
+Statements
+Chapter 2
+Introduction to Financial Management (Pope)
+
+Financial Statements Review
+Balance Sheet.
+- Financial statement that shows the value of the firm’s assets and liabilities at a particular time
+- Measured from an accounting perspective
+- Assets (use of funds) are listed on the left
+- Liabilities + Equity (source of funds) are listed on the right
+
+Balance Sheet Areas
+Current assets
+- short term investments, hurt cash flow
+- Cash and marketable securities, accounts receivable, inventory, etc.
+Current liabilities
+- help cash flow, future cash outflow
+- Accounts payable, notes payable
+Net working capital = Current assets – current liabilities
+
+Balance Sheet Areas
+Long-term assets
+- Tangible (property, plant and equipment) and intangible (goodwill)
+- Accumulated depreciation (Gross vs net PPE)
+Long-term liabilities (debt)
+Equity
+- Common stock vs Additional paid-in capital
+- Retained earnings
+
+Costco
+Wholesale
+Corporation
+Ticker symbol: COST
+Market Cap*: $395 billion
+Revenues*: $ 253 billion
+Click here for link to latest financial disclosures
+*as of August 2024
+
+Book vs Market Value?
+Book value
+- Balance sheet valuations
+- Book values look backwards
+Market value
+- The value of assets or liabilities if resold in a market.
+- Forward looking, consider the prospect of future cash flows
+What about intangible assets?
+
+Market Value Measurements
+Market Capitalization
+- Minimum value for equity of company
+- # shares outstanding * current stock price
+Enterprise value
+- Total market value of the firm
+- Market value of Equity + Market value of Debt - Cash
+
+Financial Statement Review
+Income Statement
+- Financial statement that shows the revenues, expenses, and net income of a firm over a period
+- How are debt and equity represented here?
+
+Profit vs Cash Flow
+It is important to note that accounting profit does not imply the firm has that value of cash on hand. Recall, 1. Depreciation
+EBIT = total revenues – costs - depreciation
+2. Accrual accounting
+
+Financial Statement Review
+Statement of Cash Flows
+- Financial statement that shows the firm’s cash receipts and cash payments over a period of time
+- It starts with profits and converts to cash flows
+
+Financial Statement Review
+Statement of Cash Flows
+- Cash flow from Operations (Net Income + Depreciation +/- etc.)
+- Cash flow from Investments (change in PPE)
+- Cash flow from Financing (notes payable, long-term debt, dividends)
+- Cash reconciliation
+
+Free Cash Flow
+Free Cash Flow (FCF)
+- Cash available for distribution to investors after firm pays for new investments or additions to working capital.

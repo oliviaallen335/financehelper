@@ -1,0 +1,175 @@
+Risk and Return Part 2
+Chapter 7
+Introduction to Financial Management (Pope)
+
+Technical Note on Variance
+Historical/real data is often considered uniform in distribution, implying each observation has the same probability (1/n), so, 𝑝𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛𝑣𝑎𝑟𝑋= 1
+The above formula is for a population variance (you have all the observations) but most of the time we only have a sample, so, 𝑠𝑎𝑚𝑝𝑙𝑒𝑣𝑎𝑟𝑋=
+
+Verizon
+(VZ)
+The table present the annual returns of Verizon
+Communications over the a 5 year period.
+Year
+Annual Return
+Deviations from Average Return
+Squared Deviation
+3.98%
+-0.00302
+0.00001
+11.26%
+0.06980
+0.00487
+13.84%
+0.09558
+0.00914
+-0.13%
+-0.04409
+0.00194
+-7.55%
+-0.11827
+0.01399
+Total
+21.39%
+0.02995
+E 𝑟𝑉𝑍= ෍
+𝑝𝑖𝑋𝑖= 21.39%
+= 4.28%
+𝑋𝑖−ത𝑋2 = 0.02295
+= 0.0075
+
+Ticker
+Company
+SD (%)
+
+Diversification
+Diversification is a strategy designed to reduce risk by spreading the portfolio across many investments.
+- By dividing up investments across many relatively low-correlated assets, it is possible to considerably reduce one’s exposure to risk
+- Markowitz (1959), “Portfolio Selection”, Journal of Finance
+
+Example 1:
+You are considering an investment into two companies and current market conditions predict a 40% chance of an economic boom and a 60% chance of a recession. Zig Inc is predicted to return 25% in a boom state and 3% in a recession. Zag Co. is estimated to have an 8% return in a boom and a 23% return in a recession. What are the risk-return profiles of each company and what if you build an equally weighted portfolio of the two?
+
+Scenario
+Probability
+Zig Inc
+Zag Co
+50-50 Portfolio
+Boom
+16.5%
+Recession
+Expected Return
+11.8%
+14.4%
+Standard Deviation
+10.78%
+7.35%
+1.71%
+
+Example 1:
+Sensitivity
+Analysis
+Moving from points A to E is a change in the weights of each asset in the portfolio.
+A = 100% Zag, 0% Zig
+E = 0% Zag, 100% Zig
+A
+B
+C
+D
+E
+10.0%
+11.0%
+12.0%
+13.0%
+14.0%
+15.0%
+16.0%
+17.0%
+18.0%
+10.0%
+Expected Return
+Standard Deviation
+Sensitivity Analysis
+
+Diversification Benefit
+Idiosyncratic/Diversifiable risk:
+- Related to asset (company) specific events/uncertainty
+- Also called firm-specific risk
+Systematic/Non-diversifiable risk:
+- Economy-wide sources of risk that affect the overall stock market
+- Also called market risk
+Well-diversified portfolio: one whose specific risk has been eliminated
+
+The
+“Market
+Portfolio”
+Diversification benefit leads an investor to build the most well diversified portfolio possible, i.e., the market portfolio
+
+Beta
+Beta measures the sensitivity of a stock’s return to the return on the market portfolio
+- It is a measure of risk for a “well-diversified portfolio”
+- Typically calculated by a linear regression of stock returns on the overall market return (like the S&P 500)
+- More roughly, 𝛽𝑖=
+
+Amazon.com
+Inc
+Returns on AMZN are plotted against returns from the S&P
+500 from January 2015 through December 2019.
+AMZN Beta = 1.51
+
+McDonald’s
+Corporation
+Returns on MCD are plotted against returns from the S&P
+500 from January 2015 through December 2019.
+MCD Beta = 0.45
+
+Betas in
+Practice
+The tables present beta estimates for various components of the
+S&P 500
+Ticker
+Company
+Beta
+X
+U.S. Steel
+M R O
+Marathon Oil
+A M Z N
+Amazon
+B M
+I B M
+B A
+Boeing
+F
+Ford
+U N P
+Union Pacific
+G O O G
+Google/Alphabet
+D I S
+Disney
+X O M
+ExxonMobil
+
+Portfolio Beta
+We can measure the risk of a well-diversified portfolio by measure the beta of the overall portfolio
+- Aids in determining performance (return) relative to risk of a portfolio
+- See how each asset contributes to the overall risk of the portfolio
+
+Capital Asset Pricing Model
+The expected rate of return on an investment depends upon two things:
+- Basic compensation for waiting (risk-free return)
+- An investment-specific risk premium
+- CAPM models the “well diversified” investors trade-off between risk and return (the required return based upon portfolio risk)
+
+Example 2:
+Let’s say that you are looking at investing in 2 stocks A and B. A has a beta of 1.3 and is predicted to have a return of 15%, B has a beta of 0.9 and is predicted to earn 9%. If the risk- free rate is currently 4% and the expected return on the market is 11%, determine whether these stocks are worth investing in.
+
+Stock A’s expected/required return = 4% + (11%-4%)*1.3 = 13.1%
+Stock B’s expected/required return = 4% + (11%-4%)*0.9 = 10.3%
+Stock A would, since 15%>13.1% would be considered undervalued (it offers a higher return that required), while stock B would be considered overvalued (9%<10.3%) since it offers a lower return than required.
+
+Security
+Market Line
+A graphical representation of the CAPM with a given risk-free rate and expected market return.
+Used to evaluate the relative risk to return tradeoff of an equity.

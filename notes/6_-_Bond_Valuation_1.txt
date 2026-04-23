@@ -1,0 +1,141 @@
+Debt
+Securities:
+Bonds
+Chapter 5
+Introduction to Financial Management (Pope)
+
+What is a Bond (Debt)?
+A bond is a security that obligates the issuer to make specified payments to the bondholder
+- provide periodic interest income – annuity series
+- return of the principal amount at maturity – future lump sum
+- prices can be calculated by using present value techniques (discounting of future cash flows)
+- first claimant
+
+Indenture Agreement
+Par value (Face Value): payment at maturity of bond, typically
+$1000
+Coupon rate: annual rate of interest paid as a percentage of par value
+Coupon: regular interest payment received by holder (the annuity)
+Maturity date: expiration date of bond when par value is paid back.
+Yield to maturity: expected rate of return based on price of bond
+
+Example 1:
+Below are the cash flows to an investor for a 4 year, 7.50% coupon annual bond maturing in
+2024 with a par value of $1,000.
+
+Bond Pricing
+- Discount the value of the coupon payments (the annuity)
+- Discount the value of the face value (the lump sum)
+- Add them together
+- C vs. r
+𝑟1+𝑟𝑇+
+𝐹𝑉 (1+𝑟)𝑇
+
+Example 2:
+Calculate the price of an AAA-rated, 20-year, 8% coupon (paid annually) corporate bond (par value = $1,000) which is expected to earn a yield to maturity of 10%.
+
+Semi-annual and Zero Coupon
+Most corporate and government bonds pay coupons on a semiannual basis (twice per year)
+Some companies issue zero-coupon bonds by selling them at a deep discount
+For computing price of these bonds, the values of the inputs have to be adjusted according to the frequency of the coupons (or absence thereof).
+
+Example 3:
+Here are the cash flows to an investor for a 4 year, 7.50% semi-annual coupon bond maturing in
+2024. The bond pays semi-annual coupons, $37.50 twice each year and had a yield to maturity of 3%. What is its current price?
+
+Example 3 (Part 2):
+Consider the bond from before (7.50% coupon bond maturing in 2024, semi-annual coupons, yield to maturity of 3%). If the bond’s yield falls to 2%, what is its new current price?
+
+Interest Rates and Bond Prices
+Interest rate risk: A change in interest rates impacts long-term bonds more than short-term bonds.
+
+Yield to Maturity
+Discount rate for which the present value of the bond’s payments equals the price.
+- Expected rate of return on a bond if held to maturity.
+- Changes in economic conditions and risk factors will cause bond prices and their corresponding YTMs to change
+𝑟1+𝑟𝑇+
+𝐹𝑉 (1+𝑟)𝑇
+
+Example 4:
+What is the YTM of a 7.5% annual coupon bond, with a $1,000 face value, which matures in 3 years? The market price of the bond is currently $1,167.27.
+
+YTM vs Coupon Rate
+YTM includes the return from the coupon payments plus any capital gains on the bond (the difference between price and par value)
+- Coupon rate is set by issuing company when bond is first sold. How?
+- The relationship between the two helps categorize the bond
+Type of Bond
+Coupon Rate vs Yield to Maturity
+Price Relationship to Par Value
+Premium Bond
+Coupon rate > Yield to Maturity
+Price > Par Value
+Par Value Bond
+Coupon rate = Yield to Maturity
+Price = Par Value
+Discount Bond
+Coupon rate < Yield to Maturity
+Price < Par Value
+
+Bond
+Price
+Over
+Time
+As a bond matures, its price approaches face valuing since there are fewer coupon payments remaining.
+
+Example 5:
+A bond increases in price from $963.80 to $1,380.50 and pays a coupon of 10% (on a par value of $1,000) during the same period. What is the rate of return?
+
+Callable Bonds
+Bonds that can be redeemed or “paid back” by the issuer before the maturity date
+- Issuer pays the call price for the bond, which is usually par/face value
+- Issuer sometimes pays a call premium to the holder (some number of bonus coupon payments)
+- Issuer will also specify a call window or call protection
+
+Example 6:
+Two years ago, the Mid-Atlantic Corporation issued a 10% coupon (paid semi-annually), 20-year maturity, bond with a 5-year deferred call window and a call premium of one coupon payment in addition to the par value ($1000) if exercised. If the current price on these bonds is $1080, what is its yield to call?
+
+Corporate Bonds and Risk
+Most U.S. federal bonds are considered safe and have no risk of default.
+- Default (credit) risk involves the bond issuer not paying on its bond obligations (either coupon payments or face value)
+- The default premium is the difference between the return on federal bonds (safe) and corporate bonds (risky).
+- Credit rating agencies (like Moody’s and Standards and Poor’s) provide insight into a bond’s risk with their rating scale.
+
+Bond
+Ratings
+Common ratings from two major credit rating firms.
+Note the terminology associated with the groupings of ratings.
+Moody’s
+Standard
+& Poor’s
+Safety
+Category
+Aaa
+The strongest rating; ability to repay interest and principal is very strong.
+Investment
+Grade
+Aa
+Very strong likelihood that interest and principal will be repaid.
+A
+Strong ability to repay, but some vulnerability to changes in circumstances.
+Baa
+BBB
+Adequate capacity to repay; more vulnerability to changes in economic circumstances.
+Ba
+BB
+Considerable uncertainty about ability to repay.
+Junk Bonds
+B
+Likelihood of interest and principal payments over sustained periods is questionable.
+Caa
+Ca
+CCC
+CC
+Bonds that may already be in default or in danger of imminent default.
+C
+Little prospect for interest or principal on the debt ever to be repaid.
+
+Dealing with Bond Risk
+The bond market has developed tools to manage the risk associated with corporate bonds.
+- Seniority: a ranking of debt priority to be serviced. A senior claim is paid first before any subordinate (junior) claims
+- Secured debt has a claim on specific assets (collateral) of the firm
+- Protective covenants are restriction, imposed by the bondholders on the issuer, on the use of borrowed funds

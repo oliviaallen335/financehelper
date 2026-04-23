@@ -1,0 +1,27 @@
+Risk and Return
+Problems
+Chapter 7
+Introduction to Financial Management (Pope)
+
+Question 3 (Homework):
+An investor purchased Google stock this morning for $884.00. Google stock has a beta of 1.38.
+The current risk free rate is 2.00%, while the historical market portfolio risk premium is 6%. If
+CAPM holds for Google, what should Google sell for in one year? (Assume that Google will not pay a dividend in the coming year)
+
+Question 7 from Homework:
+A stock is priced today at $12.57. Analysts have a consensus view that the stock will be valued at $15.24 next year. The stock will not pay a dividend in the coming year. After a little research, you know that the stock has a beta of 1.06. The risk free rate in the economy is 4.00%, while the market risk premium is 7.00%.
+If CAPM and the analysts are correct, what price SHOULD the stock be trading at TODAY?
+
+Question 11 from Homework:
+A portfolio composed of the stocks below earned a return of 12.00% last year, while the S&P
+500 earned 9.00%. The portfolio manager has asked you for a performance bonus as he beat the S&P 500. The risk free rate was 4.00% last year, while the market portfolio risk premium was 6.00%. Let’s evaluate his claim.
+PORTFOLIO:
+STOCK
+BETA
+DOLLARS INVESTED
+Volunteer (VOL)
+$2,000.00
+Bulldog (DOG)
+Commodore (DORE)
+$4,000.00
+What was the required return for his portfolio last year based on the risk?

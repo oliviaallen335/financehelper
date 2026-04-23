@@ -1,0 +1,72 @@
+Time Value of Money
+Chapter 4
+Introduction to Financial Management (Pope)
+
+“Time value” of Money
+Suppose you must choose between the following:
+$10 today or $10 tomorrow
+$100 today or $110 one year from now
+$1 today or $2 tomorrow
+$1000 today or $10000 ten years from now
+
+“Time value” of Money
+Why…
+- Inflation? Depreciating real assets? Investment opportunity?
+- There is a utility cost of forgoing consumption today and you must be compensated for the disutility
+- The rate of return/interest rate/discount rate captures this tradeoff
+
+Future Value and Compounding
+The value of money at the end of the stated period is called the future or compound value of that sum of money.
+- Determine the attractiveness of alternative investments
+- Figure out the effect of inflation on the future cost of assets, such as a car or a house.
+- “Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn’t, pays for it”
+
+Simple
+Lump- sum
+Deposit
+You make a deposit today of 100 in an account that earns
+6% interest. What is the account’s balance 5 years from now?
+Lump-sum represent a single transfer of cash over a period of time.
+Years
+Interest Earned
+$6.00
+Value
+$100.00
+106.00
+112.36
+119.10
+126.25
+133.82
+
+Future Value Formula
+𝐹𝑉= 𝑃𝑉(1 + 𝑟)𝑡
+FV = Future value
+PV = Present value
+R = periodic interest rate t = Time (number of periods)
+
+Example 1:
+Let’s say you want to know how much money you will have accumulated in your bank account after 4 years, if you deposit all $5,000 of your high-school graduation gifts into an account that pays a fixed interest rate of 5% per year. You leave the money untouched for all four of your college years.
+
+Example 2:
+Let’s say that you have seen your dream house, which is currently listed at $300,000, but unfortunately, you are not in a position to buy it right away and will have to wait at least another 5 years before you will be able to afford it. If house values are appreciating at the average annual rate of inflation of 5%, how much will a similar house cost after 5 years?
+
+Compound Interest Effects
+
+Present Value and Discounting
+The value of a future cash flow at the start of the stated period is called the present or discounted value of that sum
+- Involves discounting the interest that would have been earned over a given period at a given interest rate
+- Exact opposite of future value or compounding
+- Useful in determining the value (or price) of an asset that produces cash flows in the future
+
+Present Value Formula
+
+Example 3:
+Your student loan bill of $40,000 is due in 5 years. You wish to set aside some money today in an account that earns 6% interest per year to pay this debt. How much should you set aside today to perfectly finance the student loan bill in 5 years?
+
+One Equation and Four
+Variables
+𝐹𝑉= 𝑃𝑉(1 + 𝑟)𝑡
+𝐹𝑉 (1 + 𝑟)𝑡
+𝑟=
+𝑡= ln 𝐹𝑉
+𝑃𝑉 ln(1 + 𝑟)

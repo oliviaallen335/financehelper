@@ -1,0 +1,131 @@
+Introduction to Finance
+Chapter 1
+Introduction to Financial Management (Pope)
+
+What is Finance?
+Finance is the art and science of managing wealth
+- It is about making decisions regarding what assets to buy/sell, when to buy/sell them, and how to buy/sell those assets
+- Finance is about making an investment, financing or payout decision
+
+Decisions in Finance
+Investment Decision
+- Decision to invest in real assets: tangible (CAPEX) or intangible assets
+- Involves hurdle rate and rate of return
+Financing Decision
+- Decision on the sources and amounts of financing
+- Capital structure of the firm (mix of debt and equity)
+- Financial assets (claim on future cash flows from real assets)
+Payout (Dividend) Decision
+
+Musk Offers to Buy Twitter
+In early April of 2022, Elon Musk, the CEO of Tesla, made an unsolicited offer to buy Twitter for about $44 billion.
+Is this an investment or financing decision?
+
+Musk Offers to Buy Twitter
+So what was the financing decision?
+1. $13 billion in debt
+2. $12.5 billion in debt against
+Musk’s own equity
+3. $21 billion of his own equity
+
+Areas of Finance
+Money and Banking
+- Financial institutions/intermediaries: commercial banks, insurance companies, mutual funds, hedge funds
+- raise money from investors and provide financing for individuals, companies, and other organizations
+Investment
+- advising, managing, or valuing assets, particularly financial assets
+- Intrinsic vs market valuation
+- Investment banking
+
+Areas of Finance
+Financial Management
+- Sometimes referred to as Corporate Finance, includes
+- Selecting projects for investment (capital budgeting)
+- Financing projects (capital structure)
+- Daily financial decisions (working capital management)
+- generally defined as activities that create or preserve the economic value of the assets of an individual, small business, or corporation
+- Who is a financial manager and what is their goal?
+
+Types of Business
+Organizations
+SOLE PROPRIETORSHIPS AND
+PARTNERSHIPS
+Unlimited liability
+Personal tax on profits
+Harder to raise capital
+CORPORATIONS
+Limited liability
+Corporate tax on profits and on dividends (double taxation)
+Easier to raise capital
+Who runs the company? Owners or managers?
+
+General
+Motors (GM)
+Financial
+Managers
+Ticker symbol: GM
+Market cap*: $57 Billion
+Total Rev*: $35.7 Billion
+*as of August 2022
+Mary T. Barra, Chief Executive Officer (CEO)
+Leads the overall operation of the company
+Liaison to and often member of Board of Directors
+Not classically a “financial manager”
+Paul Jacobson, Chief Financial Officer (CFO)
+Oversees all financial staff
+Responsible for financial policy and corporate planning
+Loek Beckers, Treasurer
+Maintain banking relationships
+Responsible for cash management and raising of capital
+Obtain and manage capital
+Christopher Hatto, Controller
+Manages accounting and tax operations
+Responsible for preparation of financial statement
+Ensures money is used efficiently
+
+Goals of the Financial
+Manager
+Classical view of the corporation (and FM): maximize the value of the business
+- Guiding principle in finance
+- “Maximize” the “value” of the business?
+Who do the managers answer to?
+- CEO, Board of Directors, Shareholders?
+- Keep stockholders happy = max stock price in practice
+- Shareholder vs Stakeholder
+
+It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.
+- Adam Smith, An Inquiry into the Nature & Causes of the Wealth of Nations, Vol 1, Chapter 2
+
+How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it.
+- Adam Smith, The Theory of Moral Sentiments, Part 1, Section 1
+
+Shareholder vs Stakeholder
+Common criticisms of classical stock price focus:
+1. Incompatible with employee needs/objectives
+2. Consumer not critical to success
+3. No concern for society or societal issues
+
+Cisco
+Systems
+Ticker symbol: CSCO
+Market Cap*: $192 billion
+Revenues*: $49.8 billion
+Fortune 100 Best
+Company to work for 2022
+*as of August 2022
+
+No Concern for Society?
+Source:
+Pinkovskiy and Sala-i-Martin, NBER Working Paper No.
+15433 (October 2009)
+Link to paper
+From 1981-2008, more than 700,000 people were pulled out of absolute poverty.
+That is more than 70,000 people per day.
+
+Agency Issues
+Agency problem
+- Managers are agents for stockholders and are tempted to act in their own interests rather than maximizing value
+- Principal-agent problem
+Agency cost.
+- Value lost from agency problems or from the cost of mitigating agency problems
+Solution = good corporate governance
