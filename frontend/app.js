@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5207/api";
+const API_BASE = "https://financehelper-q5fr.onrender.com/api";
 
 let sessionId = null;
 
