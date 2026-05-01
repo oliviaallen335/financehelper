@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5207/api";
+const API_BASE = "https://financehelper-q5fr.onrender.com/api";
 
 let sessionId = null;
 
@@ -29,21 +29,25 @@ function addMessage(role, text, citations = []) {
 async function sendMessage(message) {
   addMessage("user", message);
 
-  const response = await fetch(`${API_BASE}/chat`, {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ sessionId, message }),
-  });
+  try {
+    const response = await fetch(`${API_BASE}/chat`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ sessionId, message }),
+    });
 
-  if (!response.ok) {
-    const text = await response.text();
-    addMessage("assistant", `Error: ${text}`);
-    return;
+    if (!response.ok) {
+      const text = await response.text();
+      addMessage("assistant", `Error: ${text}`);
+      return;
+    }
+
+    const payload = await response.json();
+    sessionId = payload.sessionId;
+    addMessage("assistant", payload.reply, payload.citations || []);
+  } catch (error) {
+    addMessage("assistant", `Network error: ${error.message}`);
   }
-
-  const payload = await response.json();
-  sessionId = payload.sessionId;
-  addMessage("assistant", payload.reply, payload.citations || []);
 }
 
 chatForm.addEventListener("submit", async (e) => {
